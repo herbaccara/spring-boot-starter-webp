@@ -1,0 +1,6 @@
+jandi:
+  enabled: true
+  webhook-url:
+  webhook:
+    enabled: true
+    path: /jandi/webhook
